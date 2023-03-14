@@ -1,3 +1,133 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+from matplotlib import colormaps
+import seaborn as sn
+from pylab import subplot, imshow
+from sklearn.metrics import confusion_matrix, accuracy_score, classification_report, ConfusionMatrixDisplay
+
+import torch  # pip3 install torch
+from torch import nn
+from torch.utils.data import DataLoader
+from torchvision import datasets  # pip3 install torchvision
+from torchvision.transforms import ToTensor
+
+from torchinfo import summary  # pip3 install torchinfo
+
+import pytorch_lightning as pl  # pip3 install pytorch-lightning
+from typing import *
+cmap_big = colormaps.get_cmap('Spectral')
+cmap = mcolors.ListedColormap(
+    cmap_big(np.linspace(0.35, 0.95, 256)))  # np.linspace crea un vettore di numeri equidistanti tra 0.35 e 0.95
+cmap
+
+plt.style.use('ggplot')
+plt.rcParams['font.family'] = 'sans-serif'
+plt.rcParams['font.serif'] = 'Ubuntu'
+plt.rcParams['font.monospace'] = 'Ubuntu Mono'
+plt.rcParams['font.size'] = 10
+plt.rcParams['axes.labelsize'] = 10
+plt.rcParams['axes.labelweight'] = 'bold'
+plt.rcParams['axes.titlesize'] = 10
+plt.rcParams['xtick.labelsize'] = 8
+plt.rcParams['ytick.labelsize'] = 8
+plt.rcParams['legend.fontsize'] = 10
+plt.rcParams['figure.titlesize'] = 12
+plt.rcParams['image.cmap'] = 'jet'
+plt.rcParams['image.interpolation'] = 'none'
+plt.rcParams['figure.figsize'] = (16, 8)
+plt.rcParams['lines.linewidth'] = 2
+
+colors = ['#5D80AE', '#FC5758', '#0DD77D', '#FFC507', '#F64044',
+          '#810f7c', '#137e6d', '#be0119', '#3b638c', '#af6f09']
+
+class History:
+    """Accumulates values in a dictionary of sequences."""
+
+    def __init__(self, keys: List[str]):
+        self.data: Dict[str, List[float]] = {}
+        self.keys: List[str] = keys
+        for k in self.keys:
+            self.data[k] = []
+
+    def add(self, *args: Any):
+        for k, a in zip(self.keys, args):
+            self.data[k].append(a)
+
+    def sums(self) -> Dict[str, float]:
+        """
+        Ho un dizionario di chiavi e liste di float. Questo metodo produce
+        un nuovo dizionario con la stessa chiave e gli elementi della sequenza sommati
+        """
+        return {k: sum(self.data[k]) for k in self.keys}
+
+    def merge(self, d: dict[str, List[float]]):
+        """
+        Unisce il dizionario di questo oggetto con il dizionario passato in input
+        :param d: un dizionario con chiave string e lista di valori float
+        """
+        for k in self.keys:
+            self.data[k].extend(d[k])
+
+    def __getitem__(self, k: str) -> List[float]:
+        """
+        Restituisce la lista relativa alla chiave k
+        :param k:
+        :return:
+        """
+        return self.data[k]
+
+
+def displayData(X: np.ndarray, t: np.ndarray, rows: int = 10, cols: int = 10, size: float = 8,
+                class_value: bool = False):
+    """
+    Mostra le immagini del dataset e il valore target subito sopra ciascuna di esse, in forma di tabella.
+    :param X: Le feature, ovvero le immagini che rappresentano le cifre del dataset MNIST di training
+    :param t: Il target del dataset di training, ovvero un intero tra 0,1,...,9
+    :param rows: il numero di righe della tabella
+    :param cols: il numero di colonne della tabella
+    :param size: la dimensione della tabella
+    :param class_value: se true, mostra anche i valori target al di sopra di ogni immagini (come se fosse il titolo dell'immagine)
+    :return:
+    """
+    X = X.numpy()
+    t = t.numpy()
+    # se ci sono più elementi di quelli che entrano nella tabella, prende gli indici di alcuni elementi casuali
+    if len(X) > rows * cols:
+        # permutation(len(X)) mischia il dataset randomicamente
+        img_ind = np.random.permutation(len(X))[0:rows * cols]  # poi prendo le prime rows*cols immagini
+    else:
+        img_ind = range(rows * cols)
+    fig = plt.figure(figsize=(size, size))
+    fig.patch.set_facecolor('white')
+    ax = fig.gca()
+
+    # non voglio un'immagine troppo grande, quindi prendo min(10,cols) e min(10, rows)
+    num_cols = min(10, cols)
+    num_rows = min(10, rows)
+    num_cells = num_cols * num_rows
+
+    for i in range(num_cells):
+        # creo un subplot per ogni immagine
+        plt.subplot(rows, cols, i + 1)
+        # in ogni subplot voglio visualizzare l'immagine, prendendo i valori dei pixel in scala di grigi
+        plt.imshow([255 - x for x in X[img_ind[i]]], cmap='gray', interpolation='gaussian')
+        # opzionalmente, mostro anche il valore vero del target
+        if class_value:
+            plt.title("{}".format(t[img_ind[i]]), fontsize=10, color=colors[4])
+
+        # elimina i tick su asse x e y
+        plt.gca().xaxis.set_major_locator(plt.NullLocator())
+        plt.gca().yaxis.set_major_locator(plt.NullLocator())
+        plt.axis('off')
+    plt.subplots_adjust(top=1)  # sposta il subplot verso il basso
+    plt.show()
+
+
+def displayOneData(X: np.ndarray, t: np.ndarray, index):
+    displayData(X[index:index + 1], t[index:index + 1], rows=1, cols=1, size=1, class_value=False)
+
 # non usato
 def save_model_coeffs(m, filename):
     torch.save(m.state_dict(), filename)
@@ -36,7 +166,6 @@ def evaluate_accuracy(net, data_iter):
     print(' ')
     return s['correct_predictions'] / s['predictions']
 
-# non usato
 def train_epoch(model, train_iter, loss_func, optimizer):
     if isinstance(model, torch.nn.Module):
         model.train()  # Set the model to training mode
@@ -50,6 +179,7 @@ def train_epoch(model, train_iter, loss_func, optimizer):
         #X=X.flatten(start_dim=1, end_dim=-1)
         # Compute predictions
         y_hat = model(X)
+        print("device y_hat: ", y_hat.device)
         # Compute loss
         loss = loss_func(y_hat, y)
         optimizer.zero_grad()
@@ -62,7 +192,6 @@ def train_epoch(model, train_iter, loss_func, optimizer):
     s = h_epoch.sums()
     return s['loss'] / s['n_examples'], s['correct_predictions'] / s['n_examples'], h_epoch
 
-# non usato
 def train(net, loaders, loss_func, num_epochs, updater, report=False):
     h_batch = History(['loss', 'correct_predictions', 'n_examples'])
     h_train = History(['training_loss', 'training_accuracy',
@@ -81,7 +210,6 @@ def train(net, loaders, loss_func, num_epochs, updater, report=False):
         h_batch.merge(h_epoch.data)
     return h_train, h_batch
 
-# non usato
 def predict(net, loaders):
     preds_train = []
     y_train = []
@@ -102,8 +230,7 @@ def predict(net, loaders):
             y_test.extend(y.numpy())
     return preds_train, y_train, preds_test, y_test
 
-# non usato
-def plot_metrics(title, h, hb):
+def plot_metrics(title, h, hb, num_epochs=3):
     losses = []
     accs = []
     for l, c, n in zip(hb.data['loss'], hb.data['correct_predictions'], hb.data['n_examples']):
@@ -132,7 +259,6 @@ def plot_metrics(title, h, hb):
     plt.suptitle(title)
     plt.show()
 
-# non usato
 def plot_label_dist(predictions_probs, predicted_class, true_label):
     plt.figure(figsize=(4, 4))
     thisplot = plt.bar(range(10), predictions_probs, color="#77aaaa")
