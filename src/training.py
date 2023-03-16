@@ -179,7 +179,6 @@ def train_epoch(model, train_iter, loss_func, optimizer):
         #X=X.flatten(start_dim=1, end_dim=-1)
         # Compute predictions
         y_hat = model(X)
-        print("device y_hat: ", y_hat.device)
         # Compute loss
         loss = loss_func(y_hat, y)
         optimizer.zero_grad()
