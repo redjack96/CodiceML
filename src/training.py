@@ -229,7 +229,7 @@ def predict(net, loaders):
             y_test.extend(y.numpy())
     return preds_train, y_train, preds_test, y_test
 
-def plot_metrics(title, h, hb, num_epochs=3):
+def plot_metrics(title, h, hb, num_epochs):
     losses = []
     accs = []
     for l, c, n in zip(hb.data['loss'], hb.data['correct_predictions'], hb.data['n_examples']):
