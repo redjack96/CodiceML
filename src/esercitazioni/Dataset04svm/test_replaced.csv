@@ -1,0 +1,501 @@
+questions,classes
+How far is it from GPE to Aspen ?,NUM
+"What county is GPE , California in ?",LOC
+Who was PRODUCT ?,HUM
+What is an atom ?,DESC
+When did GPE become a state ?,NUM
+How tall is FAC ?,NUM
+PERSON purchased a small interest in which baseball team ?,HUM
+What is GPE 's national flower ?,ENTY
+Why does the moon turn orange ?,DESC
+What is autism ?,DESC
+What city had a world fair in DATE ?,LOC
+What person 's head is on a dime ?,HUM
+What is the average weight of a GPE ?,NUM
+Who was the ORDINAL man to fly across LOC ?,HUM
+When did GPE become a state ?,NUM
+What is the life expectancy for crickets ?,NUM
+What metal has the highest melting point ?,ENTY
+Who developed the vaccination against polio ?,HUM
+What is epilepsy ?,DESC
+What year did the ORG sink ?,NUM
+Who was the ORDINAL NORP to walk in space ?,HUM
+What is a biosphere ?,DESC
+What river in the GPE is known as the Big Muddy ?,LOC
+What is bipolar disorder ?,DESC
+What is cholesterol ?,DESC
+Who developed the ORG computer ?,HUM
+What is caffeine ?,DESC
+What imaginary line is halfway between the LOC and South Poles ?,LOC
+Where is PERSON airport ?,LOC
+What hemisphere is the GPE in ?,LOC
+What is the average speed of the horses at FAC ?,NUM
+Where are LOC ?,LOC
+What are invertebrates ?,DESC
+What is the temperature at the center of the LOC ?,NUM
+When did PERSON get elected as President ?,NUM
+How old was PERSON when he died ?,NUM
+Where is LOC ?,LOC
+How far is the service line from the net in tennis ?,NUM
+How much fiber should you have per day ?,NUM
+How many Great Lakes are there ?,NUM
+Material called linen is made from what plant ?,ENTY
+What is PERSON ?,DESC
+What is amitriptyline ?,DESC
+What is a shaman ?,DESC
+What is the proper name for a female walrus ?,ENTY
+What is a group of turkeys called ?,ENTY
+How long did PERSON sleep ?,NUM
+What are triglycerides ?,DESC
+How many liters in a CARDINAL ?,NUM
+What is the name of the chocolate company in GPE ?,HUM
+What are amphibians ?,DESC
+Who discovered x-rays ?,HUM
+Which comedian 's signature line is `` Can we talk '' ?,HUM
+What is fibromyalgia ?,DESC
+What is done with worn or outdated flags ?,DESC
+What does cc in engines mean ?,DESC
+When did PERSON die ?,NUM
+What is the capital of GPE ?,LOC
+Where is GPE ?,LOC
+What is the speed hummingbirds fly ?,NUM
+What is the oldest city in GPE ?,LOC
+What was PERSON real name ?,HUM
+"What river flows between ORG , GPE and Moorhead , Minnesota ?",LOC
+What do bats eat ?,ENTY
+What state did ORG take place in ?,LOC
+Who was PERSON ?,HUM
+What do you call a newborn kangaroo ?,ENTY
+What are spider veins ?,DESC
+What day and month did PERSON die ?,NUM
+What strait separates LOC from Asia ?,LOC
+What is the population of GPE ?,NUM
+How much was a ticket for the ORG ?,NUM
+What is the largest city in the world ?,LOC
+What NORP composer wrote the music for WORK_OF_ART ?,HUM
+Where is WORK_OF_ART ?,LOC
+What is the pH scale ?,DESC
+What type of currency is used in GPE ?,ENTY
+"How tall is WORK_OF_ART GPE , MO ?",NUM
+How much does the human adult female brain weigh ?,NUM
+Who was the ORDINAL governor of GPE ?,HUM
+What is a prism ?,DESC
+When was the ORDINAL liver transplant ?,NUM
+Who was elected president of GPE in DATE ?,HUM
+What is the population of GPE ?,NUM
+When was PERSON born ?,NUM
+Why is a ladybug helpful ?,DESC
+What is amoxicillin ?,DESC
+Who was the ORDINAL female GPE Representative ?,HUM
+What are xerophytes ?,DESC
+What country did PERSON come from ?,LOC
+The GPE Department of Treasury first issued paper currency for the GPE during which war ?,ENTY
+What is desktop publishing ?,DESC
+What is the temperature of the sun 's surface ?,NUM
+What DATE did GPE join ORG ?,NUM
+What is the oldest university in the GPE ?,HUM
+Where is GPE ?,LOC
+"ORG , what year was it discovered ?",NUM
+What is cryogenics ?,DESC
+What are coral reefs ?,DESC
+What is the longest major league baseball-winning streak ?,ENTY
+What is neurology ?,DESC
+Who invented the calculator ?,HUM
+How do you measure earthquakes ?,DESC
+Who is ORG ?,HUM
+"What county is GPE , ORG in ?",LOC
+What is a micron ?,DESC
+"The sun 's core , what is the temperature ?",NUM
+What is the GPE state bird ?,ENTY
+When were PERSON twins born ?,NUM
+What is the highest dam in the GPE ?,LOC
+What color is a poison arrow frog ?,ENTY
+What is acupuncture ?,DESC
+What is the length of the coastline of the state of GPE ?,NUM
+What is the name of PERSON wife ?,HUM
+What is GPE 's state flower ?,ENTY
+Who won Ms. PERSON in DATE ?,HUM
+When did the PERSON crash ?,NUM
+What mineral helps prevent osteoporosis ?,ENTY
+What was DATE that ORG won EVENT ?,NUM
+Where is PERSON ?,LOC
+What DATE did EVENT begin ?,NUM
+What is the diameter of a golf ball ?,NUM
+What is an eclipse ?,DESC
+Who discovered GPE ?,HUM
+What is the LOC 's diameter ?,NUM
+Which president was unmarried ?,HUM
+How wide is the PRODUCT galaxy ?,NUM
+During which season do most thunderstorms occur ?,NUM
+What is PERSON ?,DESC
+What is the gestation period for a cat ?,NUM
+How far is QUANTITY ?,NUM
+Who was the abolitionist who led the raid on WORK_OF_ART in DATE ?,HUM
+What does target heart rate mean ?,DESC
+What was the ORDINAL satellite to go into space ?,ENTY
+What is foreclosure ?,DESC
+What is the major fault line near GPE ?,ENTY
+Where is ORG ?,LOC
+Who wrote the hymn `` WORK_OF_ART ?,HUM
+What position did PERSON play in baseball ?,HUM
+What are platelets ?,DESC
+What is severance pay ?,DESC
+What is the name of PERSON dog ?,ENTY
+Where are ORG ?,LOC
+What is a baby turkey called ?,ENTY
+What is poliomyelitis ?,DESC
+What is the longest bone in the human body ?,ENTY
+Who is a NORP philosopher ?,HUM
+What were PERSON CARDINAL ships ?,ENTY
+What does Phi Beta PERSON mean ?,DESC
+What is nicotine ?,DESC
+What is another name for vitamin CARDINAL ?,ENTY
+Who discovered radium ?,HUM
+What are sunspots ?,DESC
+When was GPE colonized ?,NUM
+What baseball team was the ORDINAL to make numbers part of their uniform ?,HUM
+What continent is GPE on ?,LOC
+What is the capital of GPE ?,LOC
+What is nanotechnology ?,DESC
+In the late 1700 's NORP convicts were used to populate which colony ?,LOC
+What state is the geographic center of the lower CARDINAL states ?,LOC
+What is an obtuse angle ?,DESC
+What are polymers ?,DESC
+When is hurricane season in the LOC ?,NUM
+Where is the volcano PERSON ?,LOC
+What is another astronomic term for LOC ?,ENTY
+What peninsula is GPE part of ?,LOC
+When was PERSON born ?,NUM
+What is acetaminophen ?,DESC
+What state has the least amount of rain per year ?,LOC
+Who founded ORG ?,HUM
+What year did the GPE Braves become ORG ?,NUM
+How fast is alcohol absorbed ?,NUM
+When is the DATE solstice ?,NUM
+What is supernova ?,DESC
+Where is ORG ?,LOC
+What GPE state 's motto is `` Live free or Die '' ?,LOC
+Where is the PERSON ?,LOC
+When was the ORDINAL stamp issued ?,NUM
+What primary colors do you mix to make orange ?,ENTY
+How far is Pluto from the sun ?,NUM
+What body of water are GPE in ?,LOC
+What is neuropathy ?,DESC
+Where is LOC ?,LOC
+What is cryptography ?,DESC
+What is natural gas composed of ?,ENTY
+Who is the Prime Minister of GPE ?,HUM
+What NORP ruler was defeated at the battle of PERSON ?,HUM
+What is leukemia ?,DESC
+Where did PERSON die ?,LOC
+What is the birthstone for DATE ?,ENTY
+What is the sales tax in GPE ?,ENTY
+What is the distance in miles from the earth to the sun ?,NUM
+What is the average life span for a chicken ?,NUM
+When was the ORDINAL ORG store opened ?,NUM
+What is relative humidity ?,DESC
+What city has the zip code of DATE ?,LOC
+What currency is used in GPE ?,ENTY
+Who invented the hula hoop ?,HUM
+What was the most popular toy in DATE ?,ENTY
+What is pastrami made of ?,ENTY
+What is the name of the satellite that GPE sent into space in DATE ?,ENTY
+What city 's newspaper is called `` WORK_OF_ART '' ?,LOC
+Who invented the slinky ?,HUM
+What are the animals that don 't have backbones called ?,ENTY
+What is the melting point of copper ?,NUM
+Where is the volcano PRODUCT located ?,LOC
+Who was the DATE president of GPE ?,HUM
+What is the average body temperature ?,NUM
+What does a defibrillator do ?,DESC
+What is the effect of acid rain ?,DESC
+What year did GPE abolish the draft ?,NUM
+How fast is the speed of light ?,NUM
+What province is GPE in ?,LOC
+What GPE structure is also known as the Twin Towers ?,LOC
+What is fungus ?,DESC
+What is the most frequently spoken language in the GPE ?,ENTY
+What is sodium chloride ?,DESC
+What are the spots on dominoes called ?,ENTY
+How many pounds in a ton ?,NUM
+What is influenza ?,DESC
+What is ozone depletion ?,DESC
+What year was the Mona Lisa painted ?,NUM
+What does `` Sitting Shiva '' mean ?,DESC
+"What is the electrical output in GPE , Spain ?",ENTY
+Which mountain range in LOC stretches from GPE to Georgia ?,LOC
+What is plastic made of ?,ENTY
+What is the population of GPE ?,NUM
+What does your spleen do ?,DESC
+Where is LOC ?,LOC
+Who invented the telephone ?,HUM
+What year did the GPE buy Alaska ?,NUM
+What is the name of the leader of GPE ?,HUM
+What is phenylalanine ?,DESC
+How many gallons of water are there in a cubic foot ?,NUM
+What are the CARDINAL houses of the ORG branch ?,ENTY
+What is sonar ?,DESC
+"In GPE , where do most people live ?",LOC
+What is phosphorus ?,DESC
+What is the location of LOC ?,LOC
+How fast is sound ?,NUM
+What NORP province is cognac produced in ?,LOC
+What is DATE ?,DESC
+What causes gray hair ?,DESC
+What is hypertension ?,DESC
+What is bandwidth ?,DESC
+What is the longest suspension bridge in the GPE ?,LOC
+What is a parasite ?,DESC
+What is home equity ?,DESC
+What do meteorologists do ?,DESC
+What is the criterion for being legally blind ?,ENTY
+Who is the tallest man in the world ?,HUM
+What are the twin cities ?,LOC
+What did PERSON and Howard Smith invent in DATE ?,ENTY
+What is the statue of liberty made of ?,ENTY
+What is pilates ?,DESC
+What planet is known as the `` red '' planet ?,LOC
+What is the depth of the LOC river ?,NUM
+What is the colorful NORP traditional dress called ?,ENTY
+What is PERSON ?,DESC
+NORP pesos are worth what in GPE dollars ?,NUM
+Who was the ORDINAL NORP to play for ORG ?,HUM
+Who was the ORDINAL Prime Minister of GPE ?,HUM
+How many Admirals are there in ORG ?,NUM
+What instrument did PERSON play ?,ENTY
+How old was PERSON of Arc when she died ?,NUM
+What does the word fortnight mean ?,DESC
+What is dianetics ?,DESC
+What is the capital of GPE ?,LOC
+For how long is an elephant pregnant ?,NUM
+How did PERSON die ?,DESC
+What is the primary language in GPE ?,ENTY
+What is the difference between AM radio stations and FM radio stations ?,DESC
+What is osteoporosis ?,DESC
+Who was the ORDINAL woman governor in the GPE ?,HUM
+What is peyote ?,DESC
+What is the esophagus used for ?,DESC
+What is viscosity ?,DESC
+What year did GPE become a state ?,NUM
+What is the abbreviation for GPE ?,ABBR
+What is a mirror made out of ?,ENTY
+Where on the body is a mortarboard worn ?,LOC
+What was ORG 's wife 's name ?,HUM
+What does GPE stand for ?,ABBR
+What is the chunnel ?,DESC
+Where is PERSON buried ?,LOC
+What are antacids ?,DESC
+What is pulmonary fibrosis ?,DESC
+What are PERSON ?,DESC
+What is naproxen ?,DESC
+What is strep throat ?,DESC
+What is the largest city in the GPE ?,LOC
+What is foot and mouth disease ?,ENTY
+What is the life expectancy of a dollar bill ?,NUM
+What do you call a professional map drawer ?,ENTY
+What are PRODUCT ?,DESC
+What is hybridization ?,DESC
+What color is indigo ?,ENTY
+How old do you have to be in order to rent a car in GPE ?,NUM
+What does a barometer measure ?,ENTY
+What color is a giraffe 's tongue ?,ENTY
+What does ORG stand for ?,ABBR
+What year did the ORG go on strike ?,NUM
+What is solar wind ?,DESC
+What date did PERSON land on the moon ?,NUM
+When was GPE bombed ?,NUM
+Where is LOC ?,LOC
+Who was the ORDINAL woman killed in EVENT ?,HUM
+What planet has the strongest magnetic field of all the planets ?,LOC
+Who is the governor of GPE ?,HUM
+What year did PERSON seize power in GPE ?,NUM
+What is the capital of GPE ?,LOC
+Where is FAC ?,LOC
+How many hearts does an octopus have ?,NUM
+What is pneumonia ?,DESC
+What is the deepest lake in the GPE ?,LOC
+What is a fuel cell ?,DESC
+Who was the ORDINAL GPE president to appear on TV ?,HUM
+Where is ORG ?,LOC
+What are the two types of twins ?,ENTY
+What is the brightest star ?,LOC
+What is diabetes ?,DESC
+When was President PERSON shot ?,NUM
+What is ORG ?,ABBR
+What color is yak milk ?,ENTY
+What date was PERSON born ?,NUM
+What does the technical term ORG mean ?,ABBR
+Why is the sun yellow ?,DESC
+What is the conversion rate MONEY ?,NUM
+When was PERSON born ?,NUM
+What is the Milky Way ?,DESC
+What is mold ?,DESC
+What year was PERSON born ?,NUM
+What is a group of frogs called ?,ENTY
+What is the name of PERSON ship ?,ENTY
+What is the melting point of gold ?,NUM
+What is the street address of ORG ?,LOC
+What is semolina ?,DESC
+What fruit is Melba sauce made from ?,ENTY
+What is ORG ?,DESC
+What is the percentage of water content in the human body ?,NUM
+How much does water weigh ?,NUM
+What was President PERSON 's reform program called ?,ENTY
+What is the murder rate in GPE ?,NUM
+Who is the only president to serve CARDINAL non-consecutive terms ?,HUM
+What is the population of GPE ?,NUM
+Who painted the ceiling of the Sistine Chapel ?,HUM
+Name a stimulant .,ENTY
+What is the effect of volcanoes on the climate ?,DESC
+What year did the PERSON show begin ?,NUM
+What is acid rain ?,DESC
+What is the date of GPE 's independence ?,NUM
+What is the location of LOC ?,LOC
+What is the GPE state flower ?,ENTY
+What is GPE 's state bird ?,ENTY
+What is quicksilver ?,DESC
+Who wrote `` WORK_OF_ART ?,HUM
+What is the speed of light ?,NUM
+What is the width of a football field ?,NUM
+Why in tennis are CARDINAL points called love ?,DESC
+What kind of dog was Toto in the Wizard of Oz ?,ENTY
+What is a thyroid ?,DESC
+What does ciao mean ?,DESC
+What is the only artery that carries blue blood from the heart to the lungs ?,ENTY
+How often does Old Faithful erupt at ORG ?,NUM
+What is acetic acid ?,DESC
+"What is the elevation of GPE , MO ?",NUM
+What color does litmus paper turn when it comes into contact with a strong acid ?,ENTY
+What are the colors of the NORP flag ?,ENTY
+What is ORG ?,DESC
+What NORP seaport is on LOC ?,LOC
+What is the atomic weight of silver ?,NUM
+What currency do they use in GPE ?,ENTY
+What are pathogens ?,DESC
+What is mad cow disease ?,DESC
+Name a food high in zinc .,ENTY
+When did GPE enter the union ?,NUM
+Where do apple snails live ?,LOC
+What are ethics ?,DESC
+What does ORG stand for ?,ABBR
+What is an annuity ?,DESC
+Who killed PERSON ?,HUM
+Who was the ORDINAL vice president of the GPE ?,HUM
+What birthstone is turquoise ?,ENTY
+Who was the ORDINAL GPE President to ride in an automobile to his inauguration ?,HUM
+How old was the youngest president of GPE ?,NUM
+When was PERSON born ?,NUM
+What is PERSON ?,DESC
+Who lived in the PERSON castle ?,HUM
+What is propylene glycol ?,DESC
+What is a panic disorder ?,DESC
+Who invented the instant ORG camera ?,HUM
+What is a carcinogen ?,DESC
+What is a baby lion called ?,ENTY
+What is the world 's population ?,NUM
+What is nepotism ?,DESC
+What is die-casting ?,DESC
+What is myopia ?,DESC
+What is the sales tax rate in GPE ?,NUM
+Developing nations comprise what percentage of the world 's population ?,NUM
+What is the ORDINAL highest mountain in the world ?,LOC
+What is PERSON 's nickname ?,HUM
+What is the heaviest naturally occurring element ?,ENTY
+When is Father 's Day ?,NUM
+What does the acronym ORG stand for ?,ABBR
+How long is LOC in miles ?,NUM
+What city 's newspaper is called `` WORK_OF_ART '' ?,LOC
+What is carbon dioxide ?,DESC
+Where is the Mason/Dixon line ?,LOC
+When was the GPE tea party ?,NUM
+What is metabolism ?,DESC
+Which GPE president appeared on `` WORK_OF_ART ?,HUM
+What are cigarettes made of ?,ENTY
+What is the capital of GPE ?,LOC
+What does ORG stand for ?,ABBR
+What is the state flower of GPE ?,ENTY
+What are semiconductors ?,DESC
+What is nuclear power ?,DESC
+What is a tsunami ?,DESC
+Who is the congressman from state of GPE on the armed forces committee ?,HUM
+Who was president in DATE ?,HUM
+When was the ORDINAL kidney transplant ?,NUM
+What are GPE 's CARDINAL territories ?,LOC
+What was the name of the plane ORG flew solo across the LOC ?,ENTY
+What is genocide ?,DESC
+What continent is GPE on ?,LOC
+What monastery was raided by ORG in DATE ?,ENTY
+What is an earthquake ?,DESC
+Where is the tallest roller coaster located ?,LOC
+What are enzymes ?,DESC
+Who discovered oxygen ?,HUM
+What is bangers and mash ?,DESC
+What is the name given to the PERSON at ORG ?,ENTY
+Where are the NORP crown jewels kept ?,LOC
+Who was the ORDINAL person to reach LOC ?,HUM
+What is an ulcer ?,DESC
+What is vertigo ?,DESC
+What is the spirometer test ?,DESC
+When is the official DATE ?,NUM
+What does the abbreviation ORG mean ?,ABBR
+What is the smallest bird in GPE ?,ENTY
+Who invented Trivial Pursuit ?,HUM
+What gasses are in the troposphere ?,ENTY
+Which country has the most water pollution ?,LOC
+What is the scientific name for elephant ?,ENTY
+Who is the actress known for her role in the movie `` PERSON '' ?,HUM
+What breed of hunting dog did ORG own ?,ENTY
+What is the rainiest place on LOC ?,LOC
+Who was the ORDINAL NORP to win WORK_OF_ART in literature ?,HUM
+When is GPE ?,NUM
+What was PERSON 's dog 's name ?,ENTY
+What colors need to be mixed to get the color pink ?,ENTY
+What is the most popular sport in GPE ?,ENTY
+What is the active ingredient in baking soda ?,ENTY
+When was PERSON born ?,NUM
+How cold should a refrigerator be ?,NUM
+When was the telephone invented ?,NUM
+What is the most common eye color ?,ENTY
+Where was the ORDINAL golf course in GPE ?,LOC
+What is schizophrenia ?,DESC
+What is angiotensin ?,DESC
+What did PERSON organize ?,HUM
+What is GPE state bird ?,ENTY
+What is LOC in GPE ?,LOC
+What is PERSON birthday ?,NUM
+In which state would you find LOC ?,LOC
+What do you call a word that is spelled the same backwards and forwards ?,ENTY
+What are pediatricians ?,DESC
+"What chain store is headquartered in GPE , Arkansas ?",HUM
+What are solar cells ?,DESC
+What is compounded interest ?,DESC
+What are capers ?,DESC
+What is an antigen ?,DESC
+What currency does GPE use ?,ENTY
+What is the population of GPE ?,NUM
+What type of polymer is used for bulletproof vests ?,ENTY
+What currency does GPE use ?,ENTY
+What is a thermometer ?,DESC
+What NORP city has the largest population ?,LOC
+What color are crickets ?,ENTY
+Which country gave GPE FAC ?,LOC
+What was the name of the ORDINAL GPE satellite sent into space ?,ENTY
+What precious stone is a form of pure carbon ?,ENTY
+What kind of gas is in a fluorescent bulb ?,ENTY
+What is rheumatoid arthritis ?,DESC
+"What river runs through GPE , Italy ?",LOC
+What is cerebral palsy ?,DESC
+What city is also known as `` WORK_OF_ART ?,LOC
+How far away is the moon ?,NUM
+What is the source of natural gas ?,ENTY
+In what spacecraft did GPE astronaut PERSON make his historic DATE flight ?,ENTY
+What is pectin ?,DESC
+What is bio-diversity ?,DESC
+What 's the easiest way to remove wallpaper ?,ENTY
+What year did the ORG start on its journey ?,NUM
+How much of an apple is water ?,NUM
+Who was the ORDINAL President of the GPE ?,HUM
+What is the money they use in GPE ?,ENTY
+How many feet in QUANTITY ?,NUM
+What is the birthstone of DATE ?,ENTY
+What is e-coli ?,DESC

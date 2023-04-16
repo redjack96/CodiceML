@@ -1,0 +1,501 @@
+questions,classes
+How far is it from Denver to Aspen ? ~ How far # is it,NUM
+"What county is Modesto , California in ? ~ You",LOC
+Who was Galileo ? ~ Who was,HUM
+What is an atom ? ~ What is # is an atom,DESC
+When did Hawaii become a state ? ~ When become # become Hawaii,NUM
+How tall is the Sears Building ? ~ How tall # is the Sears Building,NUM
+George Bush purchased a small interest in which baseball team ? ~ You # purchased George Bush # purchased a small interest in,HUM
+What is Australia 's national flower ? ~ What is # is Australia national flower,ENTY
+Why does the moon turn orange ? ~ Why turn # turn the moon # turn orange,DESC
+What is autism ? ~ What is # is autism,DESC
+What city had a world fair in 1900 ? ~ You # had What city # had a world fair,LOC
+What person 's head is on a dime ? ~ You # is person head,HUM
+What is the average weight of a Yellow Labrador ? ~ What is # is the average weight of,NUM
+Who was the first man to fly across the Pacific Ocean ? ~ Who was # was the first man fly,HUM
+When did Idaho become a state ? ~ When become # become Idaho,NUM
+What is the life expectancy for crickets ? ~ What is # is the life expectancy for,NUM
+What metal has the highest melting point ? ~ You # has What metal # has the highest melting point,ENTY
+Who developed the vaccination against polio ? ~ Who developed # developed the vaccination against,HUM
+What is epilepsy ? ~ What is,DESC
+What year did the Titanic sink ? ~ You # did the Titanic sink,NUM
+Who was the first American to walk in space ? ~ Who was # was the first American walk,HUM
+What is a biosphere ? ~ What is # is a biosphere,DESC
+What river in the US is known as the Big Muddy ? ~ You,LOC
+What is bipolar disorder ? ~ You # is What # is bipolar disorder,DESC
+What is cholesterol ? ~ What is # is cholesterol,DESC
+Who developed the Macintosh computer ? ~ Who developed # developed the Macintosh computer,HUM
+What is caffeine ? ~ What is # is caffeine,DESC
+What imaginary line is halfway between the North and South Poles ? ~ You # is What imaginary line,LOC
+Where is John Wayne airport ? ~ Where is # is Wayne airport,LOC
+What hemisphere is the Philippines in ? ~ You # is the Philippines,LOC
+What is the average speed of the horses at the Kentucky Derby ? ~ What is # is the average speed of at,NUM
+Where are the Rocky Mountains ? ~ Where are # are the Rocky Mountains,LOC
+What are invertebrates ? ~ You # invertebrates What,DESC
+What is the temperature at the center of the earth ? ~ What is # is the temperature at,NUM
+When did John F. Kennedy get elected as President ? ~ When elected,NUM
+How old was Elvis Presley when he died ? ~ How old # was Elvis Presley # died he,NUM
+Where is the Orinoco River ? ~ Where is # is the Orinoco River,LOC
+How far is the service line from the net in tennis ? ~ How far # is the service line from in,NUM
+How much fiber should you have per day ? ~ How much # have much fiber # have you,NUM
+How many Great Lakes are there ? ~ How many # are many Great Lakes,NUM
+Material called linen is made from what plant ? ~ You,ENTY
+What is Teflon ? ~ What is # is Teflon,DESC
+What is amitriptyline ? ~ What is # is amitriptyline,DESC
+What is a shaman ? ~ What is # is a shaman,DESC
+What is the proper name for a female walrus ? ~ What is # is the proper name for,ENTY
+What is a group of turkeys called ? ~ What is # is a group of called,ENTY
+How long did Rip Van Winkle sleep ? ~ How long,NUM
+What are triglycerides ? ~ What are # are triglycerides,DESC
+How many liters in a gallon ? ~ How many,NUM
+What is the name of the chocolate company in San Francisco ? ~ What is # is the name of,HUM
+What are amphibians ? ~ What are # are amphibians,DESC
+Who discovered x-rays ? ~ Who discovered # discovered x # discovered - # discovered rays,HUM
+Which comedian 's signature line is `` Can we talk '' ? ~ You # is comedian signature line # talk we,HUM
+What is fibromyalgia ? ~ You # is What,DESC
+What is done with worn or outdated flags ? ~ You,DESC
+What does cc in engines mean ? ~ You # cc What # mean What does cc in,DESC
+When did Elvis Presley die ? ~ When die # die Elvis Presley,NUM
+What is the capital of Yugoslavia ? ~ What is # is the capital of,LOC
+Where is Milan ? ~ Where is # is Milan,LOC
+What is the speed hummingbirds fly ? ~ What is # fly the speed hummingbirds,NUM
+What is the oldest city in the United States ? ~ What is # is the oldest city in,LOC
+What was W.C. Fields ' real name ? ~ What was # was Fields real name,HUM
+"What river flows between Fargo , North Dakota and Moorhead , Minnesota ? ~ You # flows What river",LOC
+What do bats eat ? ~ You # eat What # eat bats,ENTY
+What state did the Battle of Bighorn take place in ? ~ You # take What state # did the Battle of # take place,LOC
+Who was Abraham Lincoln ? ~ Who was # was Abraham Lincoln,HUM
+What do you call a newborn kangaroo ? ~ You # call What # call you # call a newborn kangaroo,ENTY
+What are spider veins ? ~ What are # are spider veins,DESC
+What day and month did John Lennon die ? ~ You # die John Lennon,NUM
+What strait separates North America from Asia ? ~ You # separates What strait # separates North America,LOC
+What is the population of Seattle ? ~ What is # is the population of,NUM
+How much was a ticket for the Titanic ? ~ How much,NUM
+What is the largest city in the world ? ~ What is # is the largest city in,LOC
+What American composer wrote the music for `` West Side Story '' ? ~ You # wrote What # wrote American composer # wrote the music,HUM
+Where is the Mall of the America ? ~ Where is # is the Mall of,LOC
+What is the pH scale ? ~ What is # is the pH scale,DESC
+What type of currency is used in Australia ? ~ You,ENTY
+"How tall is the Gateway Arch in St. Louis , MO ? ~ How tall # is the Gateway Arch in",NUM
+How much does the human adult female brain weigh ? ~ How much # weigh How much,NUM
+Who was the first governor of Alaska ? ~ Who was,HUM
+What is a prism ? ~ What is # is a prism,DESC
+When was the first liver transplant ? ~ When was # was the first liver transplant,NUM
+Who was elected president of South Africa in 1994 ? ~ Who elected # elected president of,HUM
+What is the population of China ? ~ What is # is the population of,NUM
+When was Rosa Parks born ? ~ When born # born Rosa Parks,NUM
+Why is a ladybug helpful ? ~ Why is,DESC
+What is amoxicillin ? ~ What is # is amoxicillin,DESC
+Who was the first female United States Representative ? ~ Who was # was the first female States Representative,HUM
+What are xerophytes ? ~ What are # are xerophytes,DESC
+What country did Ponce de Leon come from ? ~ You # come Ponce de Leon,LOC
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ? ~ You # issued The U.S. Department of # issued paper currency,ENTY
+What is desktop publishing ? ~ What is # is desktop publishing,DESC
+What is the temperature of the sun 's surface ? ~ What is # is the temperature of,NUM
+What year did Canada join the United Nations ? ~ You # join Canada # join the United Nations,NUM
+What is the oldest university in the US ? ~ What is # is the oldest university in,HUM
+Where is Prince Edward Island ? ~ Where is # is Edward Island,LOC
+"Mercury , what year was it discovered ? ~ You",NUM
+What is cryogenics ? ~ What is # is cryogenics,DESC
+What are coral reefs ? ~ What are # are coral reefs,DESC
+What is the longest major league baseball-winning streak ? ~ What is # is the longest league winning streak,ENTY
+What is neurology ? ~ What is # is neurology,DESC
+Who invented the calculator ? ~ Who invented # invented the calculator,HUM
+How do you measure earthquakes ? ~ How measure # measure you # measure earthquakes,DESC
+Who is Duke Ellington ? ~ Who is # is Duke Ellington,HUM
+"What county is Phoenix , AZ in ? ~ You",LOC
+What is a micron ? ~ What is # is a micron,DESC
+"The sun 's core , what is the temperature ? ~ You # is the temperature",NUM
+What is the Ohio state bird ? ~ What is # is the Ohio state bird,ENTY
+When were William Shakespeare 's twins born ? ~ When were # born Shakespeare twins,NUM
+What is the highest dam in the U.S. ? ~ What is # is the highest dam in,LOC
+What color is a poison arrow frog ? ~ You,ENTY
+What is acupuncture ? ~ What is # is acupuncture,DESC
+What is the length of the coastline of the state of Alaska ? ~ What is # is the length of,NUM
+What is the name of Neil Armstrong 's wife ? ~ What is # is the name of,HUM
+What is Hawaii 's state flower ? ~ What is # is Hawaii state flower,ENTY
+Who won Ms. American in 1989 ? ~ Who won # won Ms. American,HUM
+When did the Hindenberg crash ? ~ When did # did the Hindenberg crash,NUM
+What mineral helps prevent osteoporosis ? ~ You # helps What mineral # prevent osteoporosis,ENTY
+What was the last year that the Chicago Cubs won the World Series ? ~ What was # won the Chicago Cubs # won the World Series,NUM
+Where is Perth ? ~ Where is # is Perth,LOC
+What year did WWII begin ? ~ You # begin WWII,NUM
+What is the diameter of a golf ball ? ~ What is # is the diameter of,NUM
+What is an eclipse ? ~ What is # is an eclipse,DESC
+Who discovered America ? ~ Who discovered # discovered America,HUM
+What is the earth 's diameter ? ~ What is # is earth diameter,NUM
+Which president was unmarried ? ~ You # was Which president,HUM
+How wide is the Milky Way galaxy ? ~ How wide # galaxy the Milky Way,NUM
+During which season do most thunderstorms occur ? ~ You # occur most thunderstorms,NUM
+What is Wimbledon ? ~ What is # is Wimbledon,DESC
+What is the gestation period for a cat ? ~ What is # is the gestation period for,NUM
+How far is a nautical mile ? ~ How far # is a nautical mile,NUM
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ? ~ Who was # was the abolitionist led # led who # led the raid on,HUM
+What does target heart rate mean ? ~ You # target What # mean heart rate,DESC
+What was the first satellite to go into space ? ~ What was # was the first satellite go,ENTY
+What is foreclosure ? ~ What is # is foreclosure,DESC
+What is the major fault line near Kentucky ? ~ What is # is the major fault line near,ENTY
+Where is the Holland Tunnel ? ~ Where is # is the Holland Tunnel,LOC
+Who wrote the hymn `` Amazing Grace '' ? ~ Who wrote # wrote the hymn # wrote ` ` Amazing Grace '',HUM
+What position did Willie Davis play in baseball ? ~ You # play What position # play Willie Davis,HUM
+What are platelets ? ~ What are # are platelets,DESC
+What is severance pay ? ~ What is # is severance pay,DESC
+What is the name of Roy Roger 's dog ? ~ What is # is the name of,ENTY
+Where are the National Archives ? ~ Where are # are the National Archives,LOC
+What is a baby turkey called ? ~ What is # called a baby turkey,ENTY
+What is poliomyelitis ? ~ What is # is poliomyelitis,DESC
+What is the longest bone in the human body ? ~ What is # is the longest bone in,ENTY
+Who is a German philosopher ? ~ Who is # is a German philosopher,HUM
+What were Christopher Columbus ' three ships ? ~ What were # were Columbus three ships,ENTY
+What does Phi Beta Kappa mean ? ~ You # mean What # mean Phi Beta Kappa,DESC
+What is nicotine ? ~ What is,DESC
+What is another name for vitamin B1 ? ~ What is # is another name for,ENTY
+Who discovered radium ? ~ Who discovered # discovered radium,HUM
+What are sunspots ? ~ What are # are sunspots,DESC
+When was Algeria colonized ? ~ When colonized # colonized Algeria,NUM
+What baseball team was the first to make numbers part of their uniform ? ~ You # was What baseball team # part numbers,HUM
+What continent is Egypt on ? ~ You # is Egypt,LOC
+What is the capital of Mongolia ? ~ What is # is the capital of,LOC
+What is nanotechnology ? ~ What is # is nanotechnology,DESC
+In the late 1700 's British convicts were used to populate which colony ? ~ You # populate which colony,LOC
+What state is the geographic center of the lower 48 states ? ~ You,LOC
+What is an obtuse angle ? ~ What is # is an obtuse angle,DESC
+What are polymers ? ~ What are # are polymers,DESC
+When is hurricane season in the Caribbean ? ~ When is # is hurricane season in,NUM
+Where is the volcano Mauna Loa ? ~ Where is # is the volcano Loa,LOC
+What is another astronomic term for the Northern Lights ? ~ What is # is another astronomic term for,ENTY
+What peninsula is Spain part of ? ~ You # is Spain,LOC
+When was Lyndon B. Johnson born ? ~ When was # born Lyndon B. Johnson,NUM
+What is acetaminophen ? ~ What is,DESC
+What state has the least amount of rain per year ? ~ You # has What state # has the least amount of,LOC
+Who founded American Red Cross ? ~ Who founded # founded American Red Cross,HUM
+What year did the Milwaukee Braves become the Atlanta Braves ? ~ You # become the Milwaukee Braves,NUM
+How fast is alcohol absorbed ? ~ How fast # absorbed alcohol,NUM
+When is the summer solstice ? ~ When is # is the summer solstice,NUM
+What is supernova ? ~ What is # is supernova,DESC
+Where is the Shawnee National Forest ? ~ Where is # is the Shawnee National Forest,LOC
+What U.S. state 's motto is `` Live free or Die '' ? ~ What is # is state motto,LOC
+Where is the Lourve ? ~ Where is # is the Lourve,LOC
+When was the first stamp issued ? ~ When was # was the first stamp issued,NUM
+What primary colors do you mix to make orange ? ~ You # mix What primary colors # mix you,ENTY
+How far is Pluto from the sun ? ~ How far # is Pluto from,NUM
+What body of water are the Canary Islands in ? ~ You,LOC
+What is neuropathy ? ~ You # is What,DESC
+Where is the Euphrates River ? ~ Where is # is the Euphrates River,LOC
+What is cryptography ? ~ What is,DESC
+What is natural gas composed of ? ~ You # is What # is natural gas composed,ENTY
+Who is the Prime Minister of Canada ? ~ Who is # is the Prime Minister of,HUM
+What French ruler was defeated at the battle of Waterloo ? ~ You,HUM
+What is leukemia ? ~ What is,DESC
+Where did Howard Hughes die ? ~ Where die # die Howard Hughes,LOC
+What is the birthstone for June ? ~ What is # is the birthstone,ENTY
+What is the sales tax in Minnesota ? ~ What is # is the sales tax in,ENTY
+What is the distance in miles from the earth to the sun ? ~ What is # is the distance in to,NUM
+What is the average life span for a chicken ? ~ What is # is the average life span for,NUM
+When was the first Wal-Mart store opened ? ~ When was # opened the first Wal - Mart store,NUM
+What is relative humidity ? ~ You # is What # is relative humidity,DESC
+What city has the zip code of 35824 ? ~ You # has What city # has the zip code of,LOC
+What currency is used in Algeria ? ~ You,ENTY
+Who invented the hula hoop ? ~ Who invented # invented the hula hoop,HUM
+What was the most popular toy in 1957 ? ~ What was # was the popular toy,ENTY
+What is pastrami made of ? ~ What is,ENTY
+What is the name of the satellite that the Soviet Union sent into space in 1957 ? ~ What is # is the name of # sent that # sent the Soviet Union,ENTY
+What city 's newspaper is called `` The Enquirer '' ? ~ You # called ` The Enquirer '',LOC
+Who invented the slinky ? ~ Who invented # invented the slinky,HUM
+What are the animals that don 't have backbones called ? ~ What are # are the animals don have # don that # don ' t # have backbones called,ENTY
+What is the melting point of copper ? ~ What is # is the melting point of,NUM
+Where is the volcano Olympus Mons located ? ~ Where is # located the volcano Olympus Mons,LOC
+Who was the 23rd president of the United States ? ~ Who was,HUM
+What is the average body temperature ? ~ What is # is the average body temperature,NUM
+What does a defibrillator do ? ~ You # do What # do a defibrillator,DESC
+What is the effect of acid rain ? ~ What is # is the effect of,DESC
+What year did the United States abolish the draft ? ~ You # abolish the United States # abolish the draft,NUM
+How fast is the speed of light ? ~ How fast # is the speed of,NUM
+What province is Montreal in ? ~ You,LOC
+What New York City structure is also known as the Twin Towers ? ~ You # known What,LOC
+What is fungus ? ~ You # is What,DESC
+What is the most frequently spoken language in the Netherlands ? ~ What is # is the spoken language in,ENTY
+What is sodium chloride ? ~ What is # is sodium chloride,DESC
+What are the spots on dominoes called ? ~ What are # are the spots on,ENTY
+How many pounds in a ton ? ~ How many,NUM
+What is influenza ? ~ What is # is influenza,DESC
+What is ozone depletion ? ~ What is # is ozone,DESC
+What year was the Mona Lisa painted ? ~ You # painted the Mona Lisa,NUM
+What does `` Sitting Shiva '' mean ? ~ You # mean What # mean does ` ` Sitting Shiva,DESC
+"What is the electrical output in Madrid , Spain ? ~ What is # is the electrical output in",ENTY
+Which mountain range in North America stretches from Maine to Georgia ? ~ You # stretches Which mountain range in,LOC
+What is plastic made of ? ~ What is,ENTY
+What is the population of Nigeria ? ~ What is # is the population of,NUM
+What does your spleen do ? ~ You # do What # do your spleen,DESC
+Where is the Grand Canyon ? ~ Where is # is the Grand Canyon,LOC
+Who invented the telephone ? ~ Who invented # invented the telephone,HUM
+What year did the U.S. buy Alaska ? ~ You # buy the U.S. # buy Alaska,NUM
+What is the name of the leader of Ireland ? ~ What is # is the name of,HUM
+What is phenylalanine ? ~ What is,DESC
+How many gallons of water are there in a cubic foot ? ~ How many # are many gallons of,NUM
+What are the two houses of the Legislative branch ? ~ What are # are the two houses of,ENTY
+What is sonar ? ~ You # is What,DESC
+"In Poland , where do most people live ? ~ You # live most people",LOC
+What is phosphorus ? ~ What is # is phosphorus,DESC
+What is the location of the Sea of Tranquility ? ~ What is # is the location of,LOC
+How fast is sound ? ~ How fast,NUM
+What French province is cognac produced in ? ~ You # is French province,LOC
+What is Valentine 's Day ? ~ What is # is Valentine Day,DESC
+What causes gray hair ? ~ You # causes What # causes gray hair,DESC
+What is hypertension ? ~ What is # is hypertension,DESC
+What is bandwidth ? ~ You # is What,DESC
+What is the longest suspension bridge in the U.S. ? ~ What is # is the longest suspension bridge in,LOC
+What is a parasite ? ~ What is # is a parasite,DESC
+What is home equity ? ~ What is # is home equity,DESC
+What do meteorologists do ? ~ You # do What # do meteorologists,DESC
+What is the criterion for being legally blind ? ~ What is # is the criterion for,ENTY
+Who is the tallest man in the world ? ~ Who is # is the tallest man in,HUM
+What are the twin cities ? ~ What are # are the twin cities,LOC
+What did Edward Binney and Howard Smith invent in 1903 ? ~ You # invent What # invent Edward Binney and Smith,ENTY
+What is the statue of liberty made of ? ~ What is # made the statue of # is statue made of,ENTY
+What is pilates ? ~ What is # is pilates,DESC
+What planet is known as the `` red '' planet ? ~ You,LOC
+What is the depth of the Nile river ? ~ What is # is the depth of,NUM
+What is the colorful Korean traditional dress called ? ~ What is # is the colorful Korean traditional dress called,ENTY
+What is Mardi Gras ? ~ What is # is Mardi Gras,DESC
+Mexican pesos are worth what in U.S. dollars ? ~ You # are Mexican pesos,NUM
+Who was the first African American to play for the Brooklyn Dodgers ? ~ Who was # was the first African American play,HUM
+Who was the first Prime Minister of Canada ? ~ Who was,HUM
+How many Admirals are there in the U.S. Navy ? ~ How many # are many Admirals,NUM
+What instrument did Glenn Miller play ? ~ You # play What instrument # play Glenn Miller,ENTY
+How old was Joan of Arc when she died ? ~ How old # died she,NUM
+What does the word fortnight mean ? ~ You # mean What # mean the word,DESC
+What is dianetics ? ~ What is # is dianetics,DESC
+What is the capital of Ethiopia ? ~ What is # is the capital of,LOC
+For how long is an elephant pregnant ? ~ You # is an elephant pregnant,NUM
+How did Janice Joplin die ? ~ How die # die Janice Joplin,DESC
+What is the primary language in Iceland ? ~ What is # is the primary language in,ENTY
+What is the difference between AM radio stations and FM radio stations ? ~ What is # is the difference between,DESC
+What is osteoporosis ? ~ What is # is osteoporosis,DESC
+Who was the first woman governor in the U.S. ? ~ Who was # was the first woman governor in,HUM
+What is peyote ? ~ You,DESC
+What is the esophagus used for ? ~ What is # is the esophagus used,DESC
+What is viscosity ? ~ What is # is viscosity,DESC
+What year did Oklahoma become a state ? ~ You # become Oklahoma,NUM
+What is the abbreviation for Texas ? ~ What is # is the abbreviation for,ABBR
+What is a mirror made out of ? ~ What is # is a mirror made,ENTY
+Where on the body is a mortarboard worn ? ~ Where is,LOC
+What was J.F.K. 's wife 's name ? ~ What was # was wife name,HUM
+What does I.V. stand for ? ~ You # stand I.V.,ABBR
+What is the chunnel ? ~ What is # is the chunnel,DESC
+Where is Hitler buried ? ~ Where buried # buried Hitler,LOC
+What are antacids ? ~ What are,DESC
+What is pulmonary fibrosis ? ~ You # is What # is pulmonary fibrosis,DESC
+What are Quaaludes ? ~ What are # are Quaaludes,DESC
+What is naproxen ? ~ What is,DESC
+What is strep throat ? ~ What is # is strep # is throat,DESC
+What is the largest city in the U.S. ? ~ What is # is the largest city in,LOC
+What is foot and mouth disease ? ~ What is # is foot disease,ENTY
+What is the life expectancy of a dollar bill ? ~ What is # is the life expectancy of,NUM
+What do you call a professional map drawer ? ~ You # call What # call you # call a professional map drawer,ENTY
+What are Aborigines ? ~ What are # are Aborigines,DESC
+What is hybridization ? ~ What is # is hybridization,DESC
+What color is indigo ? ~ You,ENTY
+How old do you have to be in order to rent a car in Italy ? ~ How old # have you # rent a car,NUM
+What does a barometer measure ? ~ You # measure What,ENTY
+What color is a giraffe 's tongue ? ~ You,ENTY
+What does USPS stand for ? ~ You # stand USPS,ABBR
+What year did the NFL go on strike ? ~ You # go the NFL,NUM
+What is solar wind ? ~ What is # is solar wind,DESC
+What date did Neil Armstrong land on the moon ? ~ You # did What date # did Armstrong land on,NUM
+When was Hiroshima bombed ? ~ When bombed # bombed Hiroshima,NUM
+Where is the Savannah River ? ~ Where is # is the Savannah River,LOC
+Who was the first woman killed in the Vietnam War ? ~ Who was # was the first woman killed,HUM
+What planet has the strongest magnetic field of all the planets ? ~ You # has What planet # has the strongest magnetic field of,LOC
+Who is the governor of Alaska ? ~ Who is # is the governor of,HUM
+What year did Mussolini seize power in Italy ? ~ You # seize Mussolini # seize power,NUM
+What is the capital of Persia ? ~ What is # is the capital of,LOC
+Where is the Eiffel Tower ? ~ Where is # is the Eiffel Tower,LOC
+How many hearts does an octopus have ? ~ How many # have many hearts # have an octopus,NUM
+What is pneumonia ? ~ What is # is pneumonia,DESC
+What is the deepest lake in the US ? ~ What is # is the deepest lake in,LOC
+What is a fuel cell ? ~ What is # is a fuel cell,DESC
+Who was the first U.S. president to appear on TV ? ~ Who was # was the first U.S. president appear,HUM
+Where is the Little League Museum ? ~ Where is # is the League Museum,LOC
+What are the two types of twins ? ~ What are # are the two types of,ENTY
+What is the brightest star ? ~ What is # is the brightest star,LOC
+What is diabetes ? ~ What is # is diabetes,DESC
+When was President Kennedy shot ? ~ When was # shot President Kennedy,NUM
+What is TMJ ? ~ What is # is TMJ,ABBR
+What color is yak milk ? ~ You,ENTY
+What date was Dwight D. Eisenhower born ? ~ You # born Dwight D. Eisenhower,NUM
+What does the technical term ISDN mean ? ~ You # mean What # mean the technical term # mean ISDN,ABBR
+Why is the sun yellow ? ~ Why is,DESC
+What is the conversion rate between dollars and pounds ? ~ What is # is the conversion rate between,NUM
+When was Abraham Lincoln born ? ~ When was # born Abraham Lincoln,NUM
+What is the Milky Way ? ~ What is # is the Milky Way,DESC
+What is mold ? ~ What is # is mold,DESC
+What year was Mozart born ? ~ You # born Mozart,NUM
+What is a group of frogs called ? ~ What is # is a group of,ENTY
+What is the name of William Penn 's ship ? ~ What is # is the name of,ENTY
+What is the melting point of gold ? ~ What is # is the melting point of,NUM
+What is the street address of the White House ? ~ What is # is the street address of,LOC
+What is semolina ? ~ What is # is semolina,DESC
+What fruit is Melba sauce made from ? ~ You,ENTY
+What is Ursa Major ? ~ What is # is Ursa Major,DESC
+What is the percentage of water content in the human body ? ~ What is # is the percentage of,NUM
+How much does water weigh ? ~ How much # weigh water,NUM
+What was President Lyndon Johnson 's reform program called ? ~ What was # called Johnson reform program,ENTY
+"What is the murder rate in Windsor , Ontario ? ~ What is # is the murder rate in",NUM
+Who is the only president to serve 2 non-consecutive terms ? ~ Who is # serve 2 non - consecutive terms,HUM
+What is the population of Australia ? ~ What is # is the population of,NUM
+Who painted the ceiling of the Sistine Chapel ? ~ Who painted # painted the ceiling of,HUM
+Name a stimulant . ~ You # Name a stimulant,ENTY
+What is the effect of volcanoes on the climate ? ~ What is # is the effect of,DESC
+What year did the Andy Griffith show begin ? ~ You # show What year # show the Andy Griffith,NUM
+What is acid rain ? ~ What is # is acid rain,DESC
+What is the date of Mexico 's independence ? ~ What is # is the date of,NUM
+What is the location of Lake Champlain ? ~ What is # is the location of,LOC
+What is the Illinois state flower ? ~ What is # is the Illinois state flower,ENTY
+What is Maryland 's state bird ? ~ What is # is Maryland state bird,ENTY
+What is quicksilver ? ~ What is,DESC
+Who wrote `` The Divine Comedy '' ? ~ Who wrote # wrote The Divine Comedy '',HUM
+What is the speed of light ? ~ What is # is the speed of,NUM
+What is the width of a football field ? ~ What is # is the width of,NUM
+Why in tennis are zero points called love ? ~ Why are # called love,DESC
+What kind of dog was Toto in the Wizard of Oz ? ~ You,ENTY
+What is a thyroid ? ~ What is # is a thyroid,DESC
+What does ciao mean ? ~ You # mean What # mean ciao,DESC
+What is the only artery that carries blue blood from the heart to the lungs ? ~ What is # is the only artery carries # carries that # carries blue blood,ENTY
+How often does Old Faithful erupt at Yellowstone National Park ? ~ How often # does Faithful erupt at,NUM
+What is acetic acid ? ~ You # is What # is acetic acid,DESC
+"What is the elevation of St. Louis , MO ? ~ What is # is the elevation of",NUM
+What color does litmus paper turn when it comes into contact with a strong acid ? ~ You # turn What color # comes it,ENTY
+What are the colors of the German flag ? ~ What are # are the colors of,ENTY
+What is the Moulin Rouge ? ~ What is # is the Moulin Rouge,DESC
+What soviet seaport is on the Black Sea ? ~ You # is What soviet seaport,LOC
+What is the atomic weight of silver ? ~ What is # is the atomic weight of,NUM
+What currency do they use in Brazil ? ~ You # use What currency # use they,ENTY
+What are pathogens ? ~ What are # are pathogens,DESC
+What is mad cow disease ? ~ What is # is mad cow disease,DESC
+Name a food high in zinc . ~ You # Name a food high,ENTY
+When did North Carolina enter the union ? ~ When enter # enter North Carolina # enter the union,NUM
+Where do apple snails live ? ~ Where live # live apple snails,LOC
+What are ethics ? ~ What are # are ethics,DESC
+What does CPR stand for ? ~ You # stand CPR,ABBR
+What is an annuity ? ~ What is # is an annuity,DESC
+Who killed John F. Kennedy ? ~ Who killed # killed John F. Kennedy,HUM
+Who was the first vice president of the U.S. ? ~ Who was,HUM
+What birthstone is turquoise ? ~ You,ENTY
+Who was the first US President to ride in an automobile to his inauguration ? ~ Who was # was the first US President ride,HUM
+How old was the youngest president of the United States ? ~ How old,NUM
+When was Ulysses S. Grant born ? ~ When was # born Ulysses S. Grant,NUM
+What is Muscular Dystrophy ? ~ What is # is Muscular Dystrophy,DESC
+Who lived in the Neuschwanstein castle ? ~ Who lived,HUM
+What is propylene glycol ? ~ What is # is propylene glycol,DESC
+What is a panic disorder ? ~ What is # is a panic disorder,DESC
+Who invented the instant Polaroid camera ? ~ Who invented # invented the instant Polaroid camera,HUM
+What is a carcinogen ? ~ What is # is a carcinogen,DESC
+What is a baby lion called ? ~ What is # is a baby lion called,ENTY
+What is the world 's population ? ~ What is # is world population,NUM
+What is nepotism ? ~ What is # is nepotism,DESC
+What is die-casting ? ~ You # is What,DESC
+What is myopia ? ~ What is # is myopia,DESC
+What is the sales tax rate in New York ? ~ What is # is the tax rate in,NUM
+Developing nations comprise what percentage of the world 's population ? ~ You # comprise Developing nations # comprise what percentage of,NUM
+What is the fourth highest mountain in the world ? ~ What is # is the highest mountain in,LOC
+What is Shakespeare 's nickname ? ~ What is # is Shakespeare nickname,HUM
+What is the heaviest naturally occurring element ? ~ What is # is the heaviest occurring # occurring element,ENTY
+When is Father 's Day ? ~ When is # is Father Day,NUM
+What does the acronym NASA stand for ? ~ You # stand the acronym # stand NASA,ABBR
+How long is the Columbia River in miles ? ~ How long # is the Columbia River in,NUM
+What city 's newspaper is called `` The Star '' ? ~ You # called ` The Star '',LOC
+What is carbon dioxide ? ~ What is # is carbon dioxide,DESC
+Where is the Mason/Dixon line ? ~ Where is # is the Dixon line,LOC
+When was the Boston tea party ? ~ When was # was the Boston tea party,NUM
+What is metabolism ? ~ What is # is metabolism,DESC
+Which U.S.A. president appeared on `` Laugh-In '' ? ~ You # appeared Which U.S.A. president # appeared Laugh - In,HUM
+What are cigarettes made of ? ~ What are # are cigarettes made,ENTY
+What is the capital of Zimbabwe ? ~ What is # is the capital of,LOC
+What does NASA stand for ? ~ You # stand NASA,ABBR
+What is the state flower of Michigan ? ~ What is # is the state flower of,ENTY
+What are semiconductors ? ~ What are # are semiconductors,DESC
+What is nuclear power ? ~ What is # is nuclear power,DESC
+What is a tsunami ? ~ What is # is a tsunami,DESC
+Who is the congressman from state of Texas on the armed forces committee ? ~ Who is # is the congressman from on,HUM
+Who was president in 1913 ? ~ Who was,HUM
+When was the first kidney transplant ? ~ When was # was the first kidney transplant,NUM
+What are Canada 's two territories ? ~ What are # are Canada two territories,LOC
+What was the name of the plane Lindbergh flew solo across the Atlantic ? ~ What was # was the name of # flew Lindbergh,ENTY
+What is genocide ? ~ What is,DESC
+What continent is Argentina on ? ~ You,LOC
+What monastery was raided by Vikings in the late eighth century ? ~ You,ENTY
+What is an earthquake ? ~ What is # is an earthquake,DESC
+Where is the tallest roller coaster located ? ~ Where is # located the tallest roller coaster,LOC
+What are enzymes ? ~ What are # are enzymes,DESC
+Who discovered oxygen ? ~ Who discovered # discovered oxygen,HUM
+What is bangers and mash ? ~ What is # is bangers and mash,DESC
+What is the name given to the Tiger at Louisiana State University ? ~ What is # is the name given # given to Tiger,ENTY
+Where are the British crown jewels kept ? ~ Where are # kept the British crown jewels,LOC
+Who was the first person to reach the North Pole ? ~ Who was # was the first person reach # reach the North Pole,HUM
+What is an ulcer ? ~ What is # is an ulcer,DESC
+What is vertigo ? ~ What is,DESC
+What is the spirometer test ? ~ What is # is the spirometer test,DESC
+When is the official first day of summer ? ~ When is # is the official first day of,NUM
+What does the abbreviation SOS mean ? ~ You # mean What # mean the abbreviation # mean SOS,ABBR
+What is the smallest bird in Britain ? ~ What is # is the smallest bird in,ENTY
+Who invented Trivial Pursuit ? ~ Who invented # invented Trivial Pursuit,HUM
+What gasses are in the troposphere ? ~ You,ENTY
+Which country has the most water pollution ? ~ You # has Which country # has the most water pollution,LOC
+What is the scientific name for elephant ? ~ What is # is the scientific name for,ENTY
+Who is the actress known for her role in the movie `` Gypsy '' ? ~ Who is # is the actress known Gypsy,HUM
+What breed of hunting dog did the Beverly Hillbillies own ? ~ You # hunting dog # own the Beverly Hillbillies,ENTY
+What is the rainiest place on Earth ? ~ What is # is the rainiest place on,LOC
+Who was the first African American to win the Nobel Prize in literature ? ~ Who was # was the first African American # win the Nobel Prize in,HUM
+When is St. Patrick 's Day ? ~ When is # is Patrick Day,NUM
+What was FDR 's dog 's name ? ~ What was # was dog name,ENTY
+What colors need to be mixed to get the color pink ? ~ You # be What # need colors # pink the color,ENTY
+What is the most popular sport in Japan ? ~ What is # is the popular sport in,ENTY
+What is the active ingredient in baking soda ? ~ What is # is the active ingredient in # baking soda,ENTY
+When was Thomas Jefferson born ? ~ When was # born Thomas Jefferson,NUM
+How cold should a refrigerator be ? ~ How cold # be a refrigerator,NUM
+When was the telephone invented ? ~ When invented,NUM
+What is the most common eye color ? ~ What is # is the common eye color,ENTY
+Where was the first golf course in the United States ? ~ Where was # was the first golf course in,LOC
+What is schizophrenia ? ~ What is # is schizophrenia,DESC
+What is angiotensin ? ~ What is # is angiotensin,DESC
+What did Jesse Jackson organize ? ~ You # organize What # organize Jesse Jackson,HUM
+What is New York 's state bird ? ~ What is # is York state bird,ENTY
+What is the National Park in Utah ? ~ What is # is the National Park in,LOC
+What is Susan B. Anthony 's birthday ? ~ What is # is Anthony birthday,NUM
+In which state would you find the Catskill Mountains ? ~ You # find you # find the Catskill Mountains,LOC
+What do you call a word that is spelled the same backwards and forwards ? ~ You # call What # call you # call a word spelled # spelled the same,ENTY
+What are pediatricians ? ~ What are # are pediatricians,DESC
+"What chain store is headquartered in Bentonville , Arkansas ? ~ You",HUM
+What are solar cells ? ~ What are # are solar cells,DESC
+What is compounded interest ? ~ You # compounded interest,DESC
+What are capers ? ~ What are # are capers,DESC
+What is an antigen ? ~ What is # is an antigen,DESC
+What currency does Luxembourg use ? ~ You # use What currency # use Luxembourg,ENTY
+What is the population of Venezuela ? ~ What is # is the population of,NUM
+What type of polymer is used for bulletproof vests ? ~ You,ENTY
+What currency does Argentina use ? ~ You # use What currency # use Argentina,ENTY
+What is a thermometer ? ~ What is # is a thermometer,DESC
+What Canadian city has the largest population ? ~ You # has What # has Canadian city # has the largest population,LOC
+What color are crickets ? ~ You,ENTY
+Which country gave New York the Statue of Liberty ? ~ You # gave Which country # gave New York # gave the Statue of,LOC
+What was the name of the first U.S. satellite sent into space ? ~ What was # was the name of,ENTY
+What precious stone is a form of pure carbon ? ~ You # is What precious stone,ENTY
+What kind of gas is in a fluorescent bulb ? ~ You,ENTY
+What is rheumatoid arthritis ? ~ You # is What # is rheumatoid arthritis,DESC
+"What river runs through Rowe , Italy ? ~ You # runs What river",LOC
+What is cerebral palsy ? ~ What is # is cerebral palsy,DESC
+What city is also known as `` The Gateway to the West '' ? ~ You,LOC
+How far away is the moon ? ~ How far # is the moon,NUM
+What is the source of natural gas ? ~ What is # is the source of,ENTY
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ? ~ You # did what spacecraft # make astronaut Alan Shepard # make his historic 1961 flight,ENTY
+What is pectin ? ~ You # pectin What,DESC
+What is bio-diversity ? ~ What is # is bio,DESC
+What 's the easiest way to remove wallpaper ? ~ What 's # 's the easiest way remove # remove wallpaper,ENTY
+What year did the Titanic start on its journey ? ~ You # did the Titanic start on,NUM
+How much of an apple is water ? ~ How much,NUM
+Who was the 22nd President of the US ? ~ Who was # was the 22nd President of,HUM
+What is the money they use in Zambia ? ~ What is # is the money use # use they,ENTY
+How many feet in a mile ? ~ How many,NUM
+What is the birthstone of October ? ~ What is # is the birthstone of,ENTY
+What is e-coli ? ~ You # is What # is e,DESC
